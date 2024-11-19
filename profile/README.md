@@ -36,7 +36,7 @@ Run the RandAO protocol and start generating rewards! Whether you're on the **cl
 
 ---
 
-## 🪙 $RandAO Token
+##  🪙 $RAO Token
 The $RandAO token powers the ecosystem:
 - **Creation of Random Values**: The backbone of the RandAO network.
 - **Incentivization**: Rewards for providers ensuring the integrity and speed of randomness.
@@ -56,4 +56,4 @@ The $RandAO token powers the ecosystem:
 ## 👨‍💻 Join the Decentralized Revolution
 RandAO is reshaping how randomness is created and consumed. Whether you're a developer, provider, or enthusiast, there's a place for you in the RandAO ecosystem.
 
-[Visit Our Website](https://randao.net/) | [Explore Our Repos](https://github.com/RandAOLabs)
+[Visit Our Website](https://randao.net/)
