@@ -13,7 +13,7 @@ RandAO provides fully decentralized, provable randomness, ensuring **fairness** 
 - **Provable Fairness**: Verifiable by anyone, anywhere.
 - **Token Utility**: The $RandAO token incentivizes and powers the creation of random values.
 
-[Visit Our Website 🌐](https://randao.permagate.io/)
+[Visit Our Website 🌐](https://randao.net)
 
 ---
 
@@ -56,4 +56,4 @@ The $RandAO token powers the ecosystem:
 ## 👨‍💻 Join the Decentralized Revolution
 RandAO is reshaping how randomness is created and consumed. Whether you're a developer, provider, or enthusiast, there's a place for you in the RandAO ecosystem.
 
-[Visit Our Website](https://randao.permagate.io/)
+[Visit Our Website](https://randao.net/)
